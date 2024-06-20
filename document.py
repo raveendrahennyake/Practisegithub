@@ -1,5 +1,3 @@
 
-print("Hello sri lanka people")
-
-print("Hello ")
+print("Hello sri lanka")
 
